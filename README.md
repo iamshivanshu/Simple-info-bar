@@ -1,3 +1,5 @@
+#Simpleinfobar
+
 echo "# simple-info-bar" >> README.md
 git init
 git add README.md
